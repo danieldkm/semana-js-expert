@@ -27,5 +27,5 @@ export default {
   transformIgnorePatterns: ["node_modules"],
   collectCoverageFrom: [
     "src/**/*.js", "!src/**/index.js"
-  ]
+  ],
 };
